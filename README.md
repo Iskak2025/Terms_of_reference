@@ -46,28 +46,28 @@ src/main/java/com/work/Terms_of_reference
 │
 ├── controllers
 │   ├── ApplicationController   
-│   └── UserController          
+│   |── UserController          
 │
 ├── DTO
 │   ├── ApplicationDTO          
-│   └── UserDTO                 
+│   |── UserDTO                 
 │
 ├── entity
 │   ├── Application             
 │   ├── Product                 
 │   ├── User                   
-│   └── UserPrincipal           
+│   |── UserPrincipal           
 │
 ├── repositories
 │   ├── ApplicationRepository
-│   └── UserRepository
+│   |── UserRepository
 │
 ├── services
 │   ├── ApplicationService
 │   ├── MyUserDetailsService
-│   └── UserService
+│   |── UserService
 │
-└── TermsOfReferenceApplication # Точка входа
+|── TermsOfReferenceApplication # Точка входа
 
 5.🏗️ Как собрать проект
 
