@@ -61,11 +61,13 @@ src/main/java/com/work/Terms_of_reference
 ├── repositories
 │   ├── ApplicationRepository
 │   |── UserRepository
+|
 │
 ├── services
 │   ├── ApplicationService
 │   ├── MyUserDetailsService
 │   |── UserService
+|
 │
 |── TermsOfReferenceApplication # Точка входа
 
