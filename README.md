@@ -47,35 +47,35 @@ SecurityConfig
 
 ├── controllers
 
-|  ApplicationController   
-| UserController          
+ApplicationController   
+UserController          
 
 
 ├── DTO
 
-| ApplicationDTO          
-| UserDTO       
+ApplicationDTO          
+UserDTO       
 
 
 ├── entity
 
-│ Application             
-│ Product                 
-│ User                   
-│ UserPrincipal           
+Application             
+Product                 
+User                   
+UserPrincipal           
 
 
 ├── repositories
 
-│ ApplicationRepository
-│ UserRepository
+ApplicationRepository
+UserRepository
 
 
 ├── services
 
-│ ApplicationService
-│ MyUserDetailsService
-│ UserService
+ApplicationService
+MyUserDetailsService
+UserService
 
 
 |── TermsOfReferenceApplication
