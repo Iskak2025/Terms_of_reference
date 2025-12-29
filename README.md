@@ -40,11 +40,10 @@
 
 4.📁 Структура проекта
 src/main/java/com/work/Terms_of_reference
-│
+
 ├── config
 
 SecurityConfig          
-│
 
 ├── controllers
 
@@ -55,7 +54,8 @@ SecurityConfig
 ├── DTO
 
 | ApplicationDTO          
-| UserDTO                 
+| UserDTO       
+
 
 ├── entity
 
@@ -63,22 +63,21 @@ SecurityConfig
 │ Product                 
 │ User                   
 │ UserPrincipal           
-│
+
 
 ├── repositories
 
 │ ApplicationRepository
 │ UserRepository
-|
+
 
 ├── services
-|
+
 │ ApplicationService
 │ MyUserDetailsService
 │ UserService
 
-│
-|
+
 |── TermsOfReferenceApplication
 
 5.🏗️ Как собрать проект
