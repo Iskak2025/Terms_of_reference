@@ -44,19 +44,19 @@ src/main/java/com/work/Terms_of_reference
 ├── config
 │   └── SecurityConfig          
 │
-|
+
 ├── controllers
 |
 |   ├── ApplicationController   
 |   |── UserController          
 |
-|
+
 ├── DTO
 |
 |   ├── ApplicationDTO          
 |   |── UserDTO                 
 │
-|
+
 ├── entity
 |
 │   ├── Application             
@@ -64,19 +64,19 @@ src/main/java/com/work/Terms_of_reference
 │   ├── User                   
 │   |── UserPrincipal           
 │
-|
+
 ├── repositories
 |
 │   ├── ApplicationRepository
 │   |── UserRepository
 |
-│
+
 ├── services
 |
 │   ├── ApplicationService
 │   ├── MyUserDetailsService
 │   |── UserService
-|
+
 │
 |
 |── TermsOfReferenceApplication
