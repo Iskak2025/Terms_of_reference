@@ -45,12 +45,12 @@ src/main/java/com/work/Terms_of_reference
 │   └── SecurityConfig          
 │
 ├── controllers
-│   ├── ApplicationController   
-│   |── UserController          
+|   ├── ApplicationController   
+|   |── UserController          
 │
 ├── DTO
-│   ├── ApplicationDTO          
-│   |── UserDTO                 
+|   ├── ApplicationDTO          
+|   |── UserDTO                 
 │
 ├── entity
 │   ├── Application             
@@ -69,7 +69,7 @@ src/main/java/com/work/Terms_of_reference
 │   |── UserService
 |
 │
-|── TermsOfReferenceApplication # Точка входа
+|── TermsOfReferenceApplication
 
 5.🏗️ Как собрать проект
 
