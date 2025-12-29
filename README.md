@@ -15,11 +15,17 @@
 2.🧩 Возможности проекта
 
 ✅ Регистрация пользователя
+
 ✅ Авторизация (Basic Auth)
+
 ✅ Создание заявки
+
 ✅ Просмотр только своих заявок
+
 ✅ Редактирование и удаление только своих заявок
+
 ✅ Валидация данных
+
 ✅ Хранение данных в PostgreSQL
 
 3.🛠️ Используемые технологии
@@ -48,33 +54,41 @@ SecurityConfig
 ├── controllers
 
 ApplicationController   
+
 UserController          
 
 
 ├── DTO
 
-ApplicationDTO          
+ApplicationDTO      
+
 UserDTO       
 
 
 ├── entity
 
 Application             
+
 Product                 
+
 User                   
+
 UserPrincipal           
 
 
 ├── repositories
 
 ApplicationRepository
+
 UserRepository
 
 
 ├── services
 
 ApplicationService
+
 MyUserDetailsService
+
 UserService
 
 
