@@ -148,8 +148,7 @@ git clone https://github.com/USERNAME/REPOSITORY.git
 3.Выберите Открыть терминал здесь
 
 4.Введите команду:
-'''bash
-
+```bash
 docker compose up --build
 
 
