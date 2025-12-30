@@ -331,7 +331,7 @@ docker compose up --build
 
 
 
-•5.🔐 Безопасность
+•7.🔐 Безопасность
 ```text
 
 1)🔑 Spring Security
@@ -351,7 +351,7 @@ docker compose up --build
 8)📡 REST API Endpoints
 ```
 
-•6.👤 Пользователи
+•8.👤 Пользователи
 
 1)Метод	URL	Описание
 ```text
@@ -423,7 +423,7 @@ SPRING_DATASOURCE_USERNAME=app_user
 SPRING_DATASOURCE_PASSWORD=app_pass
 ```
 
-•6.📄 Лицензия
+•9.📄 Лицензия
 ```text
 
 📜 MIT License
